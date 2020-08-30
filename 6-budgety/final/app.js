@@ -184,7 +184,7 @@ var UIController = (function() {
         percentageLabel: '.budget__expenses--percentage',
         container: '.container',
         expensesPercLabel: '.item__percentage',
-        dateLabel: '.budget__title--month'
+        dateLabel: '.budget__title--month',
     };
     
     
